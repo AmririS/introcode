@@ -1,0 +1,39 @@
+body{
+  background: #fff;
+  color: #000;
+  font-size: 16px;
+  font-family: Arial;
+}
+nav{
+   font-size: 16px;
+   color: #FF3399;
+   font-family: 'Titillium Web', sans-serif;
+}
+h1{
+  font-family: 'Indie Flower', cursive;
+  color: #660033;
+  font-size: 15px;
+}
+#title{
+  color: #330000;
+  font-size: 50px;
+  font-family: 'Indie Flower', cursive;
+}
+h2 {
+  font-family: 'Dosis', sans-serif;
+  color: pink;
+  font-weight: lighter;
+  font-size: 14px;
+}
+footer {
+  font-family: 'Titillium Web', sans-serif;
+  color: brown;
+  font-size: 20px;
+}
+a {
+  color: #FF3399;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
