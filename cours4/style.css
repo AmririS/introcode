@@ -1,0 +1,118 @@
+/* style.css */
+
+body{
+  background: #fff;
+  color: #000; 
+  font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin:0;
+}
+
+nav{
+  display:inline;
+  font-size: 1em;
+  font-family: 'Source Sans Pro', sans-serif;
+} 
+
+nav li{
+	margin: 10px;
+	display: inline;
+}
+
+nav ul {
+	float: left;
+	margin-top: 25px;
+}
+
+h1{
+  font-family: 'Roboto', sans-serif;
+  color:  #41A3C0; 
+  font-weight: bolder;
+  font-size: 2em;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  color: #862D63;
+  font-weight: lighter;
+  font-size: 1.5em;
+}
+
+p{
+  color: #CA89B0;
+}
+
+a { 
+  color: #29324B;
+}
+
+
+.purple {
+  color:purple;
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgb(225, 0, 152);
+}
+
+#logo{
+  color: #430029;
+  font-size: 35px;
+  font-family: 'Pacifico', cursive;
+  float: left;
+  margin-top: 50px;
+}
+
+/* Mis en forme de la baseline */
+#baseline{
+  background-color: #AA5789;
+  text-align: center;
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#baseline h1 {
+  color: white;
+  font-size: 50px;
+}
+
+#baseline a {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  text-decoration: none;
+}
+
+#baseline a:hover {
+	position: relative;
+	top: 1px;
+}
+
+.feature {
+	border: 1px
+	solid #F2F2F2;
+	margin: 15px;
+	padding: 15px 0;
+	text-align: center;
+	width: 400px;
+	background: #F1DBE8;
+}
+
+#apropos {
+	margin: 0 auto;
+	width: 80%;
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#download {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}
