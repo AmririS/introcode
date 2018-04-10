@@ -64,7 +64,7 @@ a:hover {
   margin-top: 50px;
 }
 
-/* Mis en forme de la baseline */
+/* Mise en forme de la baseline */
 #baseline{
   background-color: #AA5789;
   text-align: center;
@@ -105,7 +105,7 @@ a:hover {
 
 
 #welcome{
-  background-color: #41A3C0;
+  background-color: #AA5789;
   text-align: center;
   padding: 50px;
   color: white;
@@ -116,8 +116,9 @@ a:hover {
 }
 
 .feature,.defi{
-  border: 1px solid #F2F2F2;
-  background: #FAFAFA;
+  border: 1px 
+  solid #F2F2F2;
+  background: #F1DBE8;
   margin: 15px;
   padding: 15px 0;
   text-align: center;
