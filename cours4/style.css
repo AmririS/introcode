@@ -63,7 +63,6 @@ a:hover {
   float: left;
 }
 
-/* Mise en forme de la baseline */
 #baseline{
   background-image: url('https://wallup.net/wp-content/uploads/2016/01/78451-flowers-nature-purple_flowers-blurred-748x421.jpg');
   text-align: center;
@@ -122,6 +121,15 @@ a:hover {
   padding: 15px 0;
   text-align: center;
   width: 400px;
+}
+
+#defis {
+  margin: 0 auto;
+  width: 80%;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 }
 
 footer {
